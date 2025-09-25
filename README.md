@@ -1,5 +1,5 @@
 
-Hi there! I’m Irfan! Welcome to my GitHub profile.
+Hi there! I’m Irfan!
 
 🌱 Currently learning Data Structures in C++ and exploring the MERN Stack.
 
