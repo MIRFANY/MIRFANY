@@ -12,6 +12,11 @@
   and unicorns
 </p>
 
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MIRFANY&color=ff69b4&style=flat-square)
+
+
 ---
 
 <p align="center">
