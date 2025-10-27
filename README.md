@@ -12,6 +12,25 @@
   
 </p>
 
+<div align="center">
+
+# 👨‍💻 Mohd Irfan
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
+### **Full-Stack Developer | ML Enthusiast**
+
+🚀 **Building:** Smart Route Optimizer & ML Projects  
+🎯 **Skills:** `Python` `JavaScript` `Node.js` `React` `MySQL`  
+🌱 **Learning:** Open Source Contributions  
+💼 **Looking for:** Internship Opportunities  
+
+📫 **Let's connect:** [Email](mohdirfan68883@gmail.com) | [LinkedIn](your-link)
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200">
+
+</div>
+
 
 
 
