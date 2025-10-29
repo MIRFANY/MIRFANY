@@ -16,11 +16,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif" width="40">
-  <b>UNDER CONSTRUCTION</b>
-  <img src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif" width="40">
-</p>
+
 <!---
 MIRFANY/MIRFANY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
