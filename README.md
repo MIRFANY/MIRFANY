@@ -1,7 +1,5 @@
 <!-- README.md -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=WELCOME+TO+MY+GITHUB+PROFILE!" alt="Typing SVG" />
-</h1>
+<h2>Welcome </h2>
 
 <p align="center">
  
