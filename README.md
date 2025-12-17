@@ -21,6 +21,9 @@
 ![Reality](https://img.shields.io/badge/Daily%20Reality-1%20Coffee-yellow?style=flat-square)
 
 
+<img src="https://i.imgur.com/DPmWKQ0.png" width="150" alt="Cat programmer sticker">
+
+
 
 
 ---
